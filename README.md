@@ -1,8 +1,8 @@
-# 📊 Excel Workbook Summary
+# <a href="https://www.microsoft.com/en-us/microsoft-365/excel" target="_blank"><img src="https://img.icons8.com/color/48/000000/microsoft-excel-2019--v1.png" width="36" height="40" alt="Excel" title="Excel-For Backend"/></a> Excel Workbook Summary 📊
 
 Welcome to my **Data Technician Workbook**! This repository contains my work and learning outcomes from Week 1 of the Data Technician course. It covers foundational skills in data handling, Excel functionality, and key data laws and regulations.
 
-## <a href="https://www.microsoft.com/en-us/microsoft-365/excel" target="_blank"><img src="https://img.icons8.com/color/48/000000/microsoft-excel-2019--v1.png" width="36" height="36" alt="Excel" title="Excel-For Backend"/></a> 📁 Contents
+## 📁 Contents
 
 The workbook includes:
 
@@ -26,8 +26,17 @@ The workbook includes:
   - Country and market profitability analysis
   - Sales performance analysis by county and product
   - Data visualization with Excel charts
-  
-<img src="https://github.com/user-attachments/assets/0aa57059-5025-4e0c-a303-ffd5b21a1eb4" width=300>
+ 
+<img src="https://github.com/user-attachments/assets/0aa57059-5025-4e0c-a303-ffd5b21a1eb4" width=300 style="margin-right: 80px;">
+<p style="display: inline-block; width: 200px; text-align: center; margin-right: 20px;">📊Pie Chart Visualisation of Revenue Comparison by Age Group</p>
+<br>
+<img src="https://github.com/user-attachments/assets/8b0b4aae-5f1f-4d18-8d08-348d68d32e14" width=300>
+<p style="display: inline-block; width: 200px; text-align: center; margin-right: 20px;">📊Graph Visualisation of Revenue Comparison by Age Group</p>
+<br>
+<img src="https://github.com/user-attachments/assets/590131a5-85ce-478e-bf63-18375595dec8" width=300>
+<p style="display: inline-block; width: 200px; text-align: center; margin-right: 20px;">📊Bar Chart Visualisation of Revenue Comparison by Age Group</p>
+
+
 
 ## 🧠 Key Skills Demonstrated
 
