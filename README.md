@@ -1,4 +1,4 @@
-# 📊 Excel Workbook Summary- 
+# 📊 Excel Workbook Summary
 
 Welcome to my **Data Technician Workbook**! This repository contains my work and learning outcomes from Week 1 of the Data Technician course. It covers foundational skills in data handling, Excel functionality, and key data laws and regulations.
 
