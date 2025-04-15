@@ -26,8 +26,8 @@ The workbook includes:
   - Country and market profitability analysis
   - Sales performance analysis by county and product
   - Data visualization with Excel charts
-    <img src = “Screenshot 2025-03-07 125233.png”>
-    <a href="https://www.microsoft.com/en-us/microsoft-365/excel" target="_blank"><img src = “Screenshot 2025-03-07 125233.png”/></a>
+  
+<img src="https://github.com/user-attachments/assets/0aa57059-5025-4e0c-a303-ffd5b21a1eb4" width=300>
 
 ## 🧠 Key Skills Demonstrated
 
