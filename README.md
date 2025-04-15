@@ -2,7 +2,7 @@
 
 Welcome to my **Data Technician Workbook**! This repository contains my work and learning outcomes from Week 1 of the Data Technician course. It covers foundational skills in data handling, Excel functionality, and key data laws and regulations.
 
-## 📁 Contents
+## <a href="https://www.microsoft.com/en-us/microsoft-365/excel" target="_blank"><img src="https://img.icons8.com/color/48/000000/microsoft-excel-2019--v1.png" width="36" height="36" alt="Excel" title="Excel-For Backend"/></a> 📁 Contents
 
 The workbook includes:
 
@@ -26,6 +26,8 @@ The workbook includes:
   - Country and market profitability analysis
   - Sales performance analysis by county and product
   - Data visualization with Excel charts
+    <img src = “Screenshot 2025-03-07 125233.png”>
+    <a href="https://www.microsoft.com/en-us/microsoft-365/excel" target="_blank"><img src = “Screenshot 2025-03-07 125233.png”/></a>
 
 ## 🧠 Key Skills Demonstrated
 
